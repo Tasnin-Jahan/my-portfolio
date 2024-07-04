@@ -10,7 +10,7 @@ const Home = () => {
                     <h2 className='text-4xl sm:text-7xl font-bold text-white mt-[150px] sm:mt-[150px] md:mt-0'>
                         I'm a MERN stack developer
                     </h2>
-                    <p className='text-gray-500 py-4 max-w-md'>I have 4 months of experience building and designing software.
+                    <p className='text-gray-500 py-4 max-w-md'>I have 1 year of experience building and designing software.
                         Currently, I love to work on web application using technologoies like React, Tailwind, Node Js and MongoDb.
                     </p>
                     <div>
